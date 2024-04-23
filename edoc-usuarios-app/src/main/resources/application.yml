@@ -1,0 +1,12 @@
+security:
+  jwt:
+    token:
+      secret-key: secret-key
+      expire-length: 300000 # 5 minutes duration by default: 5 minutes * 60 seconds * 1000 miliseconds
+      
+UsuariosController:
+  signin: autentica o usuário e retorna seu token JWT.
+  inscrição: cria usuário e retorna seu token JWT
+  delete: Exclui usuário específico por nome de usuário
+  pesquisa: retorna usuário específico por nome de usuário
+  eu: Retorna os dados do usuário atual
