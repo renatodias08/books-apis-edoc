@@ -620,7 +620,7 @@ $ curl -X GET http://localhost:8080/usuarios/meu -H 'Authorization: Bearer <JWT_
   "username": "admin",
   "email": "admin@email.com",
   "roles": [
-    "ROLE_ADMIN"
+     "ROLE_ADMIN", "ROLE_CLIENT"
   ]
 }
 ```
