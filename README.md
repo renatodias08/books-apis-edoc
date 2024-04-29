@@ -1,3 +1,6 @@
+
+# Acessar a documentação completa da App  ([edoc-usuarios-app](https://github.com/renatodias08/books-apis-edoc/tree/main/edoc-usuarios-app))
+
 # Docker Compose books-apis-edoc
 
 ## Execute o sistema
@@ -27,4 +30,3 @@ Navegar para `http://localhost:6868/swagger-ui.html` no seu navegador para verif
 
 
  
-# Acessar a documentação completa da App  ([edoc-usuarios-app](https://github.com/renatodias08/books-apis-edoc/tree/main/edoc-usuarios-app))
