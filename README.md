@@ -23,3 +23,4 @@ Se você precisar parar e remover todos os contêineres, redes e todas as imagen
 ```bash
 docker compose down --rmi all
 ```
+Navegar para `http://localhost:6868/swagger-ui.html` no seu navegador para verificar se tudo está funcionando corretamente. Você pode alterar a porta padrão no `.env` arquivo
