@@ -24,3 +24,7 @@ Se você precisar parar e remover todos os contêineres, redes e todas as imagen
 docker compose down --rmi all
 ```
 Navegar para `http://localhost:6868/swagger-ui.html` no seu navegador para verificar se tudo está funcionando corretamente. Você pode alterar a porta padrão no `.env` arquivo
+
+
+ 
+# Acessar a documentação completa da App  ([edoc-usuarios-app](https://github.com/renatodias08/books-apis-edoc/tree/main/edoc-usuarios-app))
